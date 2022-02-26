@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eccdd63-ec0b-43d7-9b5c-ab90af744d7b": {
+      "ProjectGuid": "0eccdd63-ec0b-43d7-9b5c-ab90af744d7b",
+      "DisplayName": "DotnetLab2.Server",
+      "ColorIndex": 0
+    },
+    "be5eb4dd-ed6d-4b11-8fcb-dc1d69500ac1": {
+      "ProjectGuid": "be5eb4dd-ed6d-4b11-8fcb-dc1d69500ac1",
+      "DisplayName": "DotnetLab2.Client",
+      "ColorIndex": 1
+    },
+    "0e38f1ae-a167-484b-978b-b383c783e530": {
+      "ProjectGuid": "0e38f1ae-a167-484b-978b-b383c783e530",
+      "DisplayName": "DotnetLab2.Client",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
